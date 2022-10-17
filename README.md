@@ -20,8 +20,21 @@ The results can be viewed using the link below. There are screenshots of each da
 
 [Link to dashboard](https://public.tableau.com/views/CitiBike_Challenge_16659597506140/CitiBikeChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
-<div class='tableauPlaceholder' id='viz1665960833187' style='position: relative'><noscript><a href='#'><img alt='CitiBike Challenge Story ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;CitiBike_Challenge_16659597506140&#47;CitiBikeChallengeStory&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CitiBike_Challenge_16659597506140&#47;CitiBikeChallengeStory' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ci&#47;CitiBike_Challenge_16659597506140&#47;CitiBikeChallengeStory&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'> var divElement = document.getElementById('viz1665960833187'); var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1016px';vizElement.style.height='991px'; var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>
+** Checkout Times for Users **
+![checkout times for users]()
+- This graph shows that most rides are less than 23 minutes long, and the vast proportion of rides are less than an hour. The trip length that most users seem to take is about 5 minutes. 
 
+** Checkout Times by Gender **
+![checkout times by gender]()
+- This graph shows that most bike riders are male, and that the trends for male and female riders are similar. Both male and female rides tend to spike at 5-6 minutes per trip, and trips tend to taper off around 47 minutes for all reported genders. Unknown gender has a flat curve, with low kurtosis. 
+
+** Trips by Weekday per Hour **
+![trips by weekday per hour]()
+- This heatmap shows that the most common stoptimes are right before typical work hours on each weekday, and right after work hours on Mondays, Tuesdays, Thursdays, and Fridays. Wednesday evenings are not as popular for Citibike, for reasons that we should investigate--possibly there is a competing form of transportation, for example a free bus that runs on Wednesday evenings. On the weekends, the bikes are used throughout daylight hours, mostly in the mornings and more often on Saturdays than Sundays. 
+
+** Trips by Gender (Weekday per Hour) **
+![trips by weekday per hour]()
+-
 
 ## Summary
 
