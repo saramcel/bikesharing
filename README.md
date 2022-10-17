@@ -46,5 +46,8 @@ The results can be viewed using the link below. There are screenshots of each da
 
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+The one big takeaway from these visualisations is that the typical Citibike rider is a subscriber who is male, and the rides are typically short commutes to and from work, and outings on Saturday. Trips seem to be within lower Manhattan, and usually last less than 23 minutes, typically only about 5 minutes.
+
+1. One additional visualization would be to analyze the fee structure in tandem with the trip length. For example, if there is an extra charge for each minute over 5 minutes, then there would be an incentive for the riders to only use the bikes for 5 minutes. Shorter rides might work in New York City, but not in Des Moines, so the fee structure might need to be different to allow longer use of the bikes before extra charges begin. 
+2. Another additional visualization would be to alter the bike utilization visualization from the module to make it more useful. Rather than visually estimating which bikes have traveled the longest, we could create a table with the Bike ID in one column and the amount of total trip time in the second column. Then, we can add the trip time to the color marker and sort descending, so that at the top of the list we can see which bikes need to be repaired or circulated to a lower-usage area. Although the trip times might be different in Des Moines, it is useful to see how long each bike is used. 
 
