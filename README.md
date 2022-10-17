@@ -1,11 +1,5 @@
 # Bike Sharing Field Research
 
-Overview of the analysis: Explain the purpose of this analysis.
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
-
-The written analysis has the following:
-
 ## Overview
 
 ### Background
@@ -33,8 +27,12 @@ The results can be viewed using the link below. There are screenshots of each da
 - This heatmap shows that the most common stoptimes are right before typical work hours on each weekday, and right after work hours on Mondays, Tuesdays, Thursdays, and Fridays. Wednesday evenings are not as popular for Citibike, for reasons that we should investigate--possibly there is a competing form of transportation, for example a free bus that runs on Wednesday evenings. On the weekends, the bikes are used throughout daylight hours, mostly in the mornings and more often on Saturdays than Sundays. 
 
 ** Trips by Gender (Weekday per Hour) **
-![trips by weekday per hour]()
--
+![trips by gender weekday per hour]()
+- Males, who compose most of the ridership, have a defined pattern of riding that is much like what we observed in the previous graph. The heatmap for females shows a similar pattern,but with less ridership. The unknown gender seems to use the bikes on Saturday afternoon more than any other time.
+
+** User Trips by Gender by Weekday **
+![user trips by gender by weekday]()
+- This heatmap shows customers vs subscribers and each recorded gender. Customers take fewer trips than subscribers, as one might expect. The heaviest use is by males who are subscribers. The highest usage day for males and females is Thursday. The unknown gender most often uses on the weekends as a customer--these might be tourists.
 
 ## Summary
 
