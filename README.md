@@ -37,12 +37,12 @@ The results can be viewed using the link below. There are screenshots of each da
 **5. User Trips by Gender by Weekday**
 
 ![user trips by gender by weekday](https://github.com/saramcel/bikesharing/blob/35f05a6fd35866c919a0337a75b56cb57bdeb2f6/Resources/img5.png)
-- This heatmap shows customers vs subscribers and each recorded gender. Customers take fewer trips than subscribers, as one might expect. The heaviest use is by males who are subscribers. The highest usage day for males and females is Thursday. The unknown gender most rides the bikes most often on the weekend as a customer--these might be tourists.
+- This heatmap shows customers vs subscribers and each recorded gender. Customers take fewer trips than subscribers, as one might expect. The heaviest use is by males who are subscribers. The highest usage day for males and females is Thursday. The unknown gender rides the bikes most often on the weekend as a customer--these might be tourists who are not subscribing to the service because they are only in the city for a little while (which also explains why they might not have submitted gender data).
 
 **6&7. Top Starting Locations and Top Ending Locations**
 
 ![starting and ending locatioons](https://github.com/saramcel/bikesharing/blob/35f05a6fd35866c919a0337a75b56cb57bdeb2f6/Resources/img6&7.png)
-- These maps show the most popular starting and ending locations for Citibike trips. These maps are best presented together for easier comparison. The maps are very similar, with most of the activity happening in lower Manhattan. The starting and ending location maps being so similar implies that the same trips are being taken often, as for commuting to work.
+- These maps show the most popular starting and ending locations for Citibike trips. These maps are best presented together for easier comparison. The maps are very similar, with most of the activity happening in lower Manhattan. The starting and ending location maps being so similar implies that the same trips could be repeated often, as for commuting to work.
 
 ## Summary
 
